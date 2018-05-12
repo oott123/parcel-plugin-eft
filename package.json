@@ -1,9 +1,13 @@
 {
   "name": "parcel-plugin-eft",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "oott123",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oott123/parcel-plugin-eft.git"
+  },
   "devDependencies": {
     "eft-parser": "^0.8.0"
   },
