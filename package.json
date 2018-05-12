@@ -1,0 +1,13 @@
+{
+  "name": "parcel-plugin-eft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "oott123",
+  "license": "MIT",
+  "devDependencies": {
+    "eft-parser": "^0.8.0"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.8.1"
+  }
+}
